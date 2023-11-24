@@ -12,7 +12,7 @@ EXPLORE JAMBI Merupakan web berbasis GIS yang menampilkan informasi persebaran d
 
 <h3>Sumber Data:</h3>
 <li>1. Data shp Kota Jambi</li>
-<li>2. Data Koordinat lokasi wisata Kota Jambi</li>
+<li>2. Data Koordinat lokasi wisata Kota jambi</li>
 <li>3. Data pendukung (Foto, dan Link Website)</li>
 
 ![image](https://github.com/Gitafdla/wisata/assets/118282690/745aa50f-54a2-4665-8fdc-b4518e22e4ec)
